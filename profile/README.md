@@ -120,7 +120,7 @@ Redaction should be applied using the dedicated redaction functionality, rather 
 
 The Acrobat workspace groups document editing, page organization, conversion, form completion, and review tools into a consistent interface.
 
-![Adobe Acrobat Pro Application Interface](SCREENSHOT_URL)
+![Adobe Acrobat Pro Application Interface](https://sm.pcmag.com/pcmag_au/photo/default/adobe-pcmag-long-article-march-2026_9ses.jpg)
 
 The available tools and interface layout may vary according to the installed edition, document permissions, and account configuration.
 
